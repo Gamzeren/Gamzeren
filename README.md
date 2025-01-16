@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamzeren
 - 👀 I’m interested in ... Software
-- 🌱 I’m currently learning ... reactjs, Nextjs
+- 🌱 I’m currently learning ... C#, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gamzerenn55@gmail.com
 - 😄 Pronouns: ...
