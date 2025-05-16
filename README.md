@@ -5,7 +5,7 @@
 📚 Sürekli kendimi geliştirerek daha iyi projeler üretmeyi hedefliyorum!
 ## 👀 Hakkımda
 - 🔭 Şu anda M&Y Yazılım Eğitim Akademi Danışmanlık bünyesinde **Fullstack .NET Core** eğitimi alıyorum.
-- 🌱 Yeni öğrendiğim teknolojiler: **C# Temelleri ve OOP, Entity Framework Core, N Katmanlı Mimari, Veritabanı ve SQL, .NET Core**
+- 🌱 Yeni öğrendiğim teknolojiler: **C# Temelleri ve OOP, Entity Framework Core, N Katmanlı Mimari, Veritabanı ve SQL, .NET Core, MongoDb, MVC, Identity**
 - 📫 Bana Ulaş: gamzerenn55@gmail.com
 ## ⚡ Kullandığım Teknolojiler
 ### 💻 Backend
